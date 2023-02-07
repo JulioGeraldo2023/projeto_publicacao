@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Projeto IFSP')
+@section('title', 'Projeto Publicações')
 
 @section('content')
 
